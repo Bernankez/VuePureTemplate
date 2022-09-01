@@ -5,11 +5,11 @@
 ---
 
 ## Getting Started
-1. replace `name` in `package.json`
-2. replace `<title>` in `index.html`
-3. choose your favorite font-family in `index.html` and delete others
-3. replace or delete interface `ImportMetaEnv` in `vite-env.d.ts`
-4. have fun
+- [ ] replace `name` in `package.json`
+- [ ] replace `<title>` in `index.html`
+- [ ] choose your favorite font-family in `index.html` and delete others
+- [ ] replace or delete interface `ImportMetaEnv` in `vite-env.d.ts`
+- [ ] have fun
 
 ## Plugins
 
