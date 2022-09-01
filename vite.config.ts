@@ -1,23 +1,29 @@
+/// <reference types="vitest" />
 import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
+import Unocss from "unocss/vite";
 import { resolve } from "path";
+import { viteMockServe } from "vite-plugin-mock";
 
 // https://vitejs.dev/config/
-export default defineConfig({
-  plugins: [vue()],
-  resolve: {
-    alias: {
-      "@": resolve(__dirname, "src"),
-    },
-  },
+export default defineConfig(({ mode, command }) => ({
+  plugins: [
+    vue({
+      reactivityTransform: true,
+    }),
+    Unocss(),
+    viteMockServe({
+      mockPath: "src/mock",
+      localEnabled: mode === "mock",
+    }),
+  ],
   server: {
     host: "0.0.0.0",
   },
-  css: {
-    preprocessorOptions: {
-      scss: {
-        additionalData: '@import "./src/style/common.scss";',
-      },
+  resolve: {
+    alias: {
+      "@": resolve(__dirname, "./src"),
+      "~": resolve(__dirname, "./"),
     },
   },
-});
+}));
