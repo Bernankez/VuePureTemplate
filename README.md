@@ -7,7 +7,7 @@
 ## Getting Started
 - [ ] replace `name` in `package.json`
 - [ ] replace `<title>` in `index.html`
-- [ ] choose your favorite font-family in `index.html` and delete others
+- [ ] choose your favorite font-family in `src/style.css` and delete others
 - [ ] replace or delete interface `ImportMetaEnv` in `vite-env.d.ts`
 - [ ] have fun
 
