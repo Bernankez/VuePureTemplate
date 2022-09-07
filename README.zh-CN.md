@@ -1,6 +1,6 @@
 <p align="center">
   <strong>📦 VuePureTemplate</strong><br><br>
-    一个Vue3项目的模板<br>
+    一个精简的Vue3项目模板<br>
   <samp><b>使用 Vite + Typescript + Vue3 + Vitest + Unocss + Sass</b></samp><br><br>
   <a href="./README.md">English</a> | <b>中文</b>
 </p>
@@ -30,7 +30,6 @@
 
 #### Plugins
 
-- [Pinia](https://pinia.vuejs.org/) - 直接的, 类型安全的, 轻便灵活的 Vue 状态管理
 - [mockjs](https://github.com/nuysoft/Mock) - 生成模拟数据
 - [vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock) - 配合Vite提供本地及生产环境模拟数据
 
