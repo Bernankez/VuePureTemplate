@@ -2,7 +2,7 @@
   <strong>📦 VuePureTemplate</strong><br><br>
     A starter template for Vue3<br>
   <samp><b>Using Vite + Typescript + Vue3 + Vitest + Unocss + Sass</b></samp><br><br>
-  <ins><b>English</b></ins> | <a href="./README.zh-CN.md">中文</a>
+  <b>English</b> | <a href="./README.zh-CN.md">中文</a>
 </p>
 
 
