@@ -1,6 +1,6 @@
 <p align="center">
   <strong>📦 VuePureTemplate</strong><br><br>
-    A starter template for Vue3<br>
+    A simple starter template for Vue3<br>
   <samp><b>Using Vite + Typescript + Vue3 + Vitest + Unocss + Sass</b></samp><br><br>
   <b>English</b> | <a href="./README.zh-CN.md">中文</a>
 </p>
@@ -30,7 +30,6 @@
 
 #### Plugins
 
-- [Pinia](https://pinia.vuejs.org/) - Intuitive, type safe and flexible Store for Vue.
 - [mockjs](https://github.com/nuysoft/Mock) - A simulation data generator.
 - [vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock) - Provide local and prod mocks for vite.
 
