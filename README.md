@@ -13,7 +13,7 @@
 - [ ] Change the author name in `LICENSE`
 - [ ] Choose your favorite font-family in `src/style.css` and delete others
 - [ ] Replace or delete interface `ImportMetaEnv` in `vite-env.d.ts`
-- [ ] have fun
+- [ ] Have fun :)
 
 ### Pre-packed
 
