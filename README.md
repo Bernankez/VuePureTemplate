@@ -1,16 +1,18 @@
 <p align="center">
-  <strong>📦 VuePureTemplate</strong><br>
+  <strong>📦 VuePureTemplate</strong><br><br>
     A starter template for Vue3<br>
-  <samp><b>Using Vite + Typescript + Vue3 + Vitest + Unocss + Sass</b></samp>
+  <samp><b>Using Vite + Typescript + Vue3 + Vitest + Unocss + Sass</b></samp><br><br>
+  <ins><b>English<b></ins> | <a href="./README.zh-CN.md">中文</a>
 </p>
 
 
 ### Getting Started
 
-- [ ] replace `name` in `package.json`
-- [ ] replace `<title>` in `index.html`
-- [ ] choose your favorite font-family in `src/style.css` and delete others
-- [ ] replace or delete interface `ImportMetaEnv` in `vite-env.d.ts`
+- [ ] Change the `name` in `package.json`
+- [ ] Change `<title>` in `index.html`
+- [ ] Change the author name in `LICENSE`
+- [ ] Choose your favorite font-family in `src/style.css` and delete others
+- [ ] Replace or delete interface `ImportMetaEnv` in `vite-env.d.ts`
 - [ ] have fun
 
 ### Pre-packed
