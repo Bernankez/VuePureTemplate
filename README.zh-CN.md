@@ -28,19 +28,19 @@
 
 
 
-#### Plugins
+#### 插件
 
 - [mockjs](https://github.com/nuysoft/Mock) - 生成模拟数据
 - [vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock) - 配合Vite提供本地及生产环境模拟数据
 
-#### Coding Style
+#### 代码风格
 
 - 使用组合式api与 [`<script setup>`](https://github.com/vuejs/rfcs/pull/227)
 - 使用 [Reactivity Transform](https://vuejs.org/guide/extras/reactivity-transform.html#reactivity-transform)
 - [ESLint](https://eslint.org/) 双引号，有分号
 - [Prettier](https://prettier.io/)
 
-#### Devtools
+#### 开发工具
 
 - [Vitest](https://github.com/vitest-dev/vitest) - 基于Vite的单元测试框架
 - [pnpm](https://pnpm.js.org/) - 快速的, 节省磁盘空间的包管理器
