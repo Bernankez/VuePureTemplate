@@ -43,4 +43,5 @@
 #### Devtools
 
 - [Vitest](https://github.com/vitest-dev/vitest) - Unit testing powered by Vite.
-- [pnpm](https://pnpm.js.org/) - fast, disk space efficient package manager.
+- [pnpm](https://pnpm.js.org/) - Fast, disk space efficient package manager.
+- [taze](https://github.com/antfu/taze) - A modern cli tool that keeps your deps fresh.
