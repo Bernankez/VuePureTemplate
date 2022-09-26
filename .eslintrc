@@ -6,7 +6,10 @@
     "@vue/eslint-config-typescript/recommended"
   ],
   "env": {
-    "vue/setup-compiler-macros": true
+    "vue/setup-compiler-macros": true,
+    "es6": true,
+    "browser": true,
+    "node": true
   },
   "rules": {
     "no-undef": "warn",
