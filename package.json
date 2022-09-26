@@ -1,8 +1,8 @@
 {
   "name": "vue-pure-template",
-  "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "mock": "vite --mode mock",
@@ -22,12 +22,11 @@
     "vue": "^3.2.37"
   },
   "devDependencies": {
+    "@bernankez/eslint-config": "^0.0.4",
     "@iconify-json/uil": "^1.1.2",
     "@types/node": "^18.7.14",
     "@vitejs/plugin-vue": "^3.0.3",
-    "@vue/eslint-config-typescript": "^11.0.0",
     "eslint": "^8.23.0",
-    "eslint-plugin-vue": "^9.4.0",
     "husky": "^8.0.0",
     "sass": "^1.54.8",
     "taze": "^0.8.1",
