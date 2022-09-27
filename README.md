@@ -45,3 +45,9 @@
 - [Vitest](https://github.com/vitest-dev/vitest) - Unit testing powered by Vite.
 - [pnpm](https://pnpm.js.org/) - Fast, disk space efficient package manager.
 - [taze](https://github.com/antfu/taze) - A modern cli tool that keeps your deps fresh.
+
+### Check Also
+
+- [TSTemplate](https://github.com/Bernankez/TSTemplate) - Starter template for TypeScript library
+- [vscode-settings](https://github.com/Bernankez/vscode-settings) - My VSCode Settings
+- [eslint-config](https://github.com/Bernankez/eslint-config) - My ESLint Config
