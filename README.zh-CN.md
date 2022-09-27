@@ -50,4 +50,4 @@
 
 - [TSTemplate](https://github.com/Bernankez/TSTemplate) - TS库的起始模版
 - [vscode-settings](https://github.com/Bernankez/vscode-settings) - 我的VSCode设置
-- [eslint-config](https://github.com/Bernankez/eslint-config) - 我的ESLint设置
+- [eslint-config](https://github.com/Bernankez/eslint-config) - 我的ESLint配置
