@@ -45,3 +45,9 @@
 - [Vitest](https://github.com/vitest-dev/vitest) - 基于Vite的单元测试框架
 - [pnpm](https://pnpm.js.org/) - 快速的, 节省磁盘空间的包管理器
 - [taze](https://github.com/antfu/taze) - 一个使你的依赖保持最新版本的命令行工具
+
+### 还可以看看这些
+
+- [TSTemplate](https://github.com/Bernankez/TSTemplate) - TS库的起始模版
+- [vscode-settings](https://github.com/Bernankez/vscode-settings) - 我的VSCode设置
+- [eslint-config](https://github.com/Bernankez/eslint-config) - 我的ESLint设置
