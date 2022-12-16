@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "mock": "vite --mode mock",
-    "taze": "taze",
+    "taze": "taze -f",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
     "test": "vitest run",
@@ -15,6 +15,7 @@
     "format": "npm run prettier && npm run lint",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
+    "preinstall": "npx only-allow pnpm",
     "prepare": "husky install"
   },
   "dependencies": {
